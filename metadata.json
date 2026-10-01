@@ -1,0 +1,6 @@
+{
+  "name": "PsoriaCare - Solusi Edukasi & Pemantauan Psoriasis",
+  "description": "Platform komprehensif pendamping pasien psoriasis: informasi obat topikal, kalkulator FTU, panduan perawatan diri, pemantau kepatuhan pengobatan, dan skin tracker berkala.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
